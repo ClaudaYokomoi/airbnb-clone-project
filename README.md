@@ -55,3 +55,48 @@ A user-friendly design is critical in a booking system for the following reasons
 - **Accessibility for All:** Inclusive design ensures the platform is usable by individuals with varying needs, expanding the user base.
 
 By focusing on these principles, the AirBnB Clone project aims to deliver an enjoyable and efficient experience for users.
+
+## UI/UX Design Planning
+
+### Color Styles
+
+The following color styles will be used to maintain a cohesive and visually appealing design:
+
+- **Primary Colors:**
+  - #FF385C (Red) - Used for buttons and key actions.
+  - #008489 (Teal) - Used for highlights and links.
+- **Neutral Colors:**
+  - #333333 (Dark Gray) - For text.
+  - #FFFFFF (White) - Background and card designs.
+  - #F7F7F7 (Light Gray) - Subtle backgrounds.
+- **Accent Colors:**
+  - #FFD700 (Gold) - For ratings and highlights.
+
+### Typography
+
+Typography plays a critical role in creating a professional and readable interface:
+
+- **Font Family:** `Inter`, `Arial`, sans-serif.
+- **Font Weight:**
+  - Regular (400) - For body text.
+  - Medium (500) - For emphasis on subheadings or buttons.
+  - Bold (700) - For headings and primary actions.
+- **Font Sizes:**
+  - Heading 1 (H1): 32px
+  - Heading 2 (H2): 24px
+  - Body Text: 16px
+  - Small Text: 14px
+
+### Importance of Identifying Design Properties
+
+Understanding the design properties of a mockup design is crucial for several reasons:
+
+1. **Consistency Across Pages:** Identifying colors, fonts, and other styles ensures the design remains uniform across the application.
+2. **Improved Development Efficiency:** Predefined styles make it easier to translate designs into code without confusion.
+3. **Enhanced User Experience:** A consistent and visually appealing interface builds trust and improves usability.
+4. **Collaboration:** Clearly documented design properties facilitate better communication between designers and developers.
+
+### Exploring the Figma Environment
+
+- Visit the [Figma page here](https://figma.com) to explore and analyze the mockup design for the AirBnB Clone project.
+- Inspect color styles, typography, spacing, and other properties to understand how to bring the design to life.
