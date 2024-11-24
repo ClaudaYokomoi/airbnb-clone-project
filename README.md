@@ -100,3 +100,38 @@ Understanding the design properties of a mockup design is crucial for several re
 
 - Visit the [Figma page here](https://figma.com) to explore and analyze the mockup design for the AirBnB Clone project.
 - Inspect color styles, typography, spacing, and other properties to understand how to bring the design to life.
+
+## Project Roles and Responsibilities
+
+### Roles and Their Responsibilities
+
+| **Role**                | **Key Responsibilities**                                                                                                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | - Oversee project timelines and deliverables. <br> - Coordinate team communication. <br> - Manage risks and resources.                                                                    |
+| **Frontend Developers** | - Develop the user interface using React.js. <br> - Implement responsive design and accessibility features. <br> - Collaborate with designers to translate mockups into code.             |
+| **Backend Developers**  | - Build and maintain the server-side application using Node.js and Express.js. <br> - Manage API integration and database operations. <br> - Ensure application security and scalability. |
+| **Designers**           | - Create mockups, wireframes, and visual assets in tools like Figma. <br> - Define the color palette, typography, and design patterns.                                                    |
+| **QA/Testers**          | - Test the application for bugs and usability issues. <br> - Write and execute test cases. <br> - Ensure all features meet the project requirements.                                      |
+| **DevOps Engineers**    | - Set up CI/CD pipelines. <br> - Manage cloud infrastructure (e.g., AWS). <br> - Monitor application performance and scalability.                                                         |
+| **Product Owner**       | - Define and prioritize the product backlog. <br> - Communicate the vision and goals of the project. <br> - Ensure the team delivers value to the stakeholders.                           |
+| **Scrum Master**        | - Facilitate agile processes like daily stand-ups and sprint planning. <br> - Remove blockers for the team. <br> - Ensure adherence to Scrum principles.                                  |
+
+Each role contributes to the project's success by ensuring seamless collaboration and timely delivery of features.
+
+---
+
+## UI Component Patterns
+
+### Planned UI Components
+
+| **Component**          | **Description**                                                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------- |
+| **Navbar**             | A navigation bar to allow users to access key sections like Home, Search, and Profile.   |
+| **Property Card**      | A card component displaying property details such as images, title, price, and ratings.  |
+| **Footer**             | A footer component displaying legal links, social media links, and company information.  |
+| **Search Bar**         | A search component for filtering properties based on location, date, and other criteria. |
+| **Booking Widget**     | A widget for users to select dates, guest count, and confirm booking options.            |
+| **Review Section**     | A section to display user reviews and ratings for a property.                            |
+| **Pagination Control** | A control to navigate through pages of search results.                                   |
+
+These components will follow consistent design patterns and be reusable across different parts of the application to ensure maintainability.
